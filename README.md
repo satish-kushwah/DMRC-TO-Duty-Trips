@@ -1,2 +1,2 @@
-# DMRC-TO-Duty-Trips
-App for DMRC TO for noting duty trips
+# TO-Duty-Trips
+App for TO for noting duty trips
